@@ -2,6 +2,8 @@
 
 A simple and elegant form validation project using HTML, CSS, and JavaScript. This project validates user inputs such as name, email, and password in real-time, ensuring data integrity before submission.
 
+---
+
 ## 🚀 Features
 
 - ✅ Real-time validation feedback
